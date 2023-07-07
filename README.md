@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayson Arevalo</h1>
-<h3 align="center">I took Bachelor of Science Information Technology at Mindoro State University (MinSU) - Calapan Campus. 
+<h3 align="justify">I took Bachelor of Science Information Technology at Mindoro State University (MinSU) - Calapan Campus. 
 A years of staying at Mindoro State University I learned a lot such as: Computer Programming, Databases, Multimedia that uses to develop a web and software application.</h3>
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/jaysondevofficial/) 
