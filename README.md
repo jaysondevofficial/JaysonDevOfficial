@@ -2,10 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayson-arevalo-200779282/)
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
- 
-</p>
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/jaysondevofficial/) 
+[<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim)
 <p>Hi 👋, I'm Jayson Arevalo I took Bachelor of Science Information Technology at Mindoro State University (MinSU) - Calapan Campus. 
 A years of staying at Mindoro State University I learned a lot such as: Computer Programming, Databases, Multimedia that uses to develop a web and software application.</p>
 <picture>
