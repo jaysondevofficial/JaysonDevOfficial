@@ -12,7 +12,7 @@ A years of staying at Mindoro State University I learned a lot such as: Computer
 
 
 
-<img alt="Linkedin" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaysondevofficial&theme=vue" />
+<img alt="Linkedin" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaysondevofficial&theme=cobalt" />
 
   
 <!---
