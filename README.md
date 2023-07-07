@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Pavan Gandhi!](https://github.com/jaysondevofficial/)
+## Hey 👋, I'm [Jayson Arevalo!](https://github.com/jaysondevofficial/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayson-arevalo-200779282/)
 <p>Hi 👋, I'm Jayson Arevalo I took Bachelor of Science Information Technology at Mindoro State University (MinSU) - Calapan Campus. 
