@@ -4,9 +4,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+ 
 </p>
 <p>Hi 👋, I'm Jayson Arevalo I took Bachelor of Science Information Technology at Mindoro State University (MinSU) - Calapan Campus. 
 A years of staying at Mindoro State University I learned a lot such as: Computer Programming, Databases, Multimedia that uses to develop a web and software application.</p>
