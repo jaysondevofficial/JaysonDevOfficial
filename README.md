@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jayson Arevalo</h1>
-<h3 align="justify">I took Bachelor of Science Information Technology at Mindoro State University (MinSU) - Calapan Campus. 
-A years of staying at Mindoro State University I learned a lot such as: Computer Programming, Databases, Multimedia that uses to develop a web and software application.</h3>
+### Hi there 👋, I'm Jayson Cornejo Arevalo A.K.A [ Dot Fire Tech ].
+#### Welcome to my Github Account.
+![Welcome to my Github Account.](https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/377440288_122107314134034197_3068759635788566342_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=JV-1jCKu_mEAX_iyvgC&_nc_ht=scontent-mnl1-1.xx&oh=00_AfBdGf_S6NNfoKNIoZFkjMvi4yjGalFW30_RiGJZZzYEgw&oe=657A0E35)
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/jaysondevofficial/) 
-[<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](jaysonarevalo.official@gmail.com)
-[<img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />](https://www.facebook.com/jhayskie.cornejoolavera)
-[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/jhayskie.cornejoolavera)
-[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jayson-arevalo-200779282/)
+I am a freelance web programmer and developer. I earned my degree in Bachelor's of Science Information Technology at Mindoro State University - Calapan Campus. I am passionate about in developing a website and currently learning in application development.
+
+Skills: HTML / CSS / JavaScipt / PHP / Laravel / LavaLust / C-Sharp 
+
+- 🌱 I’m currently learning application development. 
+- 📫 How to reach me: dotfireitechnology@gmail.com 
+- ⚡ Fun fact: I hate coding. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaysondevofficial)  
 
-<!---
-JaysonDevOfficial/JaysonDevOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
